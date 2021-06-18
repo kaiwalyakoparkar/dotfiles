@@ -1,3 +1,17 @@
 [user]
-	name = kaiwalyakoparkar
-	email = kaiwalyakoparkar@gmail.com
+        name = kaiwalyakoparkar
+        email = kaiwalyakoparkar@gmail.com
+[init]
+        defaultBranch = main
+[alias]
+        lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold bl>
+        a = add
+        b = branch
+        c = commit -m
+        ch = checkout
+        chb = checkout -b
+        pl = pull
+        pso = push origin
+        psu = push upstream
+        s = status -s
+        r = remote -v

@@ -1,0 +1,749 @@
+: 1623516934:0;clear
+: 1623516937:0;git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+: 1623517736:0;git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+: 1623517751:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+: 1623517782:0;clear
+: 1623517783:0;ls
+: 1623517784:0;clear
+: 1623517786:0;pwd
+: 1623517787:0;clear
+: 1623517791:0;ls
+: 1623517815:0;nano ~/.zshrc
+: 1623518081:0;clear
+: 1623519210:0;pwd
+: 1623519212:0;clear
+: 1623519229:0;pwd
+: 1623519230:0;clear
+: 1623519234:0;ls
+: 1623519235:0;clear
+: 1623519336:0;clar
+: 1623519337:0;clear
+: 1623519341:0;clar
+: 1623519347:0;zsh --version
+: 1623519350:0;clear
+: 1623519351:0;help
+: 1623519355:0;clear
+: 1623519358:0;bas
+: 1623519361:0;bash
+: 1623519750:0;clear
+: 1623519767:0;exit
+: 1623519787:0;pwd
+: 1623519797:0;clear
+: 1623519806:0;git status
+: 1623519828:0;nano README.md
+: 1623519862:0;clear
+: 1623519867:0;git status
+: 1623519870:0;git add .
+: 1623519900:0;git commit -m "docs: :memo: Readme update"
+: 1623519910:0;clear
+: 1623519915:0;git push
+: 1623519931:0;clear
+: 1623519933:0;git status
+: 1623519935:0;clear
+: 1623519940:0;git pull origin main
+: 1623519944:0;clear
+: 1623520055:0;history
+: 1623520061:0;clear
+: 1623521223:0;git remote set-url origin git@github.com:kaiwalyakoparkar/Find-Me-Resource.git
+: 1623521236:0;nano README.md
+: 1623521247:0;git status
+: 1623521256:0;git commit -am "docs: :memo: Readme update"
+: 1623521270:0;git push origin main
+: 1623521308:0;nano README.md
+: 1623521329:0;git status
+: 1623521333:0;git commit -am "docs: :memo: Readme update"
+: 1623521338:0;git push origin main
+: 1623521499:0;clear
+: 1623523510:0;ls
+: 1623523514:0;cd Desktop
+: 1623523515:0;clear
+: 1623523518:0;ls
+: 1623523527:0;rm -r Linux-Demo
+: 1623523532:0;clear
+: 1623523549:0;rm writeUp.md
+: 1623523551:0;clear
+: 1623523566:0;rm takeaways_md.md
+: 1623523567:0;clear
+: 1623523572:0;exit
+: 1623523901:0;bash
+: 1623523919:0;clear
+: 1623523934:0;zsh --help
+: 1623523956:0;clear
+: 1623523961:0;--history
+: 1623523964:0;clea
+: 1623523968:0;clear
+: 1623523979:0;zsh --history
+: 1623523991:0;zsh --help
+: 1623524033:0;clear
+: 1623559289:0;git remote set-url origin git@github.com:kaiwalyakoparkar/Full-Stack-Development-Learning-Path.git
+: 1623559293:0;clear
+: 1623559399:0;git remote set-url origin git@github.com:kaiwalyakoparkar/Full-Stack-Development-Learning-Path.git
+: 1623559402:0;clear
+: 1623559407:0;cd //
+: 1623559411:0;clear
+: 1623559414:0;cd ..
+: 1623559416:0;ls
+: 1623559469:0;git status
+: 1623559470:0;clear
+: 1623559475:0;git checkout main
+: 1623559478:0;clear
+: 1623559482:0;git pull origin main
+: 1623559492:0;clear
+: 1623559531:0;git remote set-url origin git@github.com:kaiwalyakoparkar/Data-Structures-And-Algorithm-Interview-Kit.git
+: 1623559534:0;clear
+: 1623584765:0;peek
+: 1623584773:0;bash
+: 1623584915:0;peek
+: 1623585049:0;clear
+: 1623585055:0;sudo apt-get update
+: 1623585086:0;clear
+: 1623594382:0;sudo apt-get update
+: 1623594437:0;clear
+: 1623594449:0;sudo apt install flameshot
+: 1623594561:0;clear
+: 1623594566:0;flameshot
+: 1623594593:0;clear
+: 1623594840:0;flameshot --help
+: 1623594854:0;flameshot gui
+: 1623594863:0;clear
+: 1623594890:0;history
+: 1623594892:0;clear
+: 1623594897:0;help
+: 1623594900:0;zsh --help
+: 1623594904:0;clear
+: 1623594910:0;zsh
+: 1623594913:0;clear
+: 1623594920:0;exit
+: 1623596238:0;code .
+: 1623596249:0;git checkout mvp
+: 1623596260:0;clear
+: 1623598040:0;git status
+: 1623598048:0;git add .
+: 1623598126:0;git commit -am "feat: :construction: Landing section responsiveness added"
+: 1623598138:0;clear
+: 1623598144:0;git push origin mvp
+: 1623598178:0;clear
+: 1623600693:0;code .
+: 1623602703:0;clear
+: 1623641472:0;subl .
+: 1623641919:0;sudo apt-get update
+: 1623641946:0;clear
+: 1623642243:0;git branch
+: 1623642323:0;git checkout stackAndQueue
+: 1623642325:0;clear
+: 1623642329:0;git status
+: 1623642330:0;clear
+: 1623642358:0;cd Stacks\ \&\ Queues
+: 1623642360:0;clear
+: 1623642361:0;ls
+: 1623642364:0;cleawr
+: 1623642368:0;clear
+: 1623642398:0;mkdir ImplementTwoStackInAnArray
+: 1623642399:0;clear
+: 1623642414:0;cp Solution.java ImplementTwoStackInAnArray
+: 1623642423:0;cp Question\ and\ Logic.md ImplementTwoStackInAnArray
+: 1623642424:0;clear
+: 1623642429:0;cd ImplementTwoStackInAnArray
+: 1623642430:0;clear
+: 1623642433:0;ls
+: 1623642438:0;clear
+: 1623642451:0;bash
+: 1623642565:0;clear
+: 1623642579:0;flameshot gui
+: 1623643213:0;clear
+: 1623643239:0;subl ProblemSets
+: 1623644751:0;javac Solution.java
+: 1623644770:0;clear
+: 1623644774:0;javac Solution.java
+: 1623644814:0;clear
+: 1623644816:0;javac Solution.java
+: 1623645050:0;clear
+: 1623645052:0;javac Solution.java
+: 1623645108:0;clear
+: 1623645113:0;java Solution.java
+: 1623645139:0;clear
+: 1623645236:0;javac Solution.java
+: 1623645243:0;java Solution.java
+: 1623645249:0;clear
+: 1623653324:0;javac Solution.java
+: 1623653351:0;clear
+: 1623653499:0;javac Solution.java
+: 1623653561:0;clear
+: 1623653698:0;javac Solution.java
+: 1623653718:0;clear
+: 1623653721:0;java Solution.java
+: 1623653770:0;javac Solution.java
+: 1623653773:0;java Solution.java
+: 1623655390:0;javac Solution.java
+: 1623655398:0;java Solution.java
+: 1623662094:0;flameshot gui
+: 1623668326:0;git status
+: 1623668329:0;git add .
+: 1623668371:0;git commit -m "feat: :fire: Added Implement 2 stack in an Array[Partial]"
+: 1623668374:0;git push origin mvp
+: 1623668385:0;git push origin stackAndQueue
+: 1623668616:0;clear
+: 1623673987:0;subl .
+: 1623675150:0;clear
+: 1623675154:0;ls
+: 1623675160:0;cd ImplementTwoStackInAnArray
+: 1623675161:0;cleawr
+: 1623675163:0;clear
+: 1623675164:0;ls
+: 1623675169:0;javac Solution.java
+: 1623675177:0;clear
+: 1623675179:0;java Solution.java
+: 1623675291:0;javac Solution.java
+: 1623675294:0;java Solution.java
+: 1623675352:0;javac Solution.java
+: 1623675356:0;java Solution.java
+: 1623675361:0;javac Solution.java
+: 1623675386:0;clear
+: 1623675389:0;javac Solution.java
+: 1623675394:0;java Solution.java
+: 1623676077:0;clear
+: 1623676079:0;git status
+: 1623676081:0;git add .
+: 1623676090:0;git commit -m "feat: :fire: Added Implement 2 stack in an Array[Complete]"
+: 1623676211:0;git commit -am "docs: :memo: Problem Documentation added"
+: 1623676213:0;git push origin stackAndQueue
+: 1623683110:0;clear
+: 1623683113:0;cd
+: 1623683115:0;clear
+: 1623683117:0;status
+: 1623683118:0;ls
+: 1623683120:0;clear
+: 1623683127:0;bash
+: 1623683136:0;clear
+: 1623683433:0;docker
+: 1623683436:0;bash
+: 1623683456:0;zsh --help
+: 1623683509:0;clear
+: 1623683571:0;ls -a
+: 1623683587:0;cd .oh-my-zsh
+: 1623683589:0;clear
+: 1623683589:0;ls
+: 1623683840:0;clear
+: 1623683841:0;cd
+: 1623683843:0;clear
+: 1623683854:0;cd .oh-my-zsh
+: 1623683856:0;cleawr
+: 1623683857:0;clear
+: 1623683869:0;cd
+: 1623683874:0;sudo apt update
+: 1623683948:0;clear
+: 1623683961:0;sudo apt install command-not-found
+: 1623683967:0;clear
+: 1623683973:0;[200~echo 'source /etc/zsh_command_not_found' >> ~/.zshrc
+: 1623683982:0;clear
+: 1623683991:0;echo 'source /etc/zsh_command_not_found' >> ~/.zshrc\
+source ~/.zshrc
+: 1623684005:0;echo 'source /etc/zsh_command_not_found' >> ~/.zshrc
+: 1623684014:0;source ~/.zshrc
+: 1623684019:0;clear
+: 1623684022:0;docker
+: 1623684026:0;clear
+: 1623684032:0;man
+: 1623684036:0;man mv
+: 1623684041:0;clear
+: 1623684043:0;help
+: 1623684046:0;clear
+: 1623684062:0;history
+: 1623684064:0;clear
+: 1623684068:0;exit
+: 1623684073:0;exxit
+: 1623684080:0;exit
+: 1623684088:0;exitt
+: 1623684091:0;clear
+: 1623684094:0;clr
+: 1623684106:0;clear
+: 1623684111:0;kubernetes
+: 1623684115:0;clear
+: 1623687689:0;sudo apt-get update
+: 1623687717:0;clear
+: 1623687731:0;sudo apt-get install \\
+    apt-transport-https \\
+    ca-certificates \\
+    curl \\
+    gnupg \\
+    lsb-release
+: 1623687759:0;clear
+: 1623687764:0;curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+: 1623687805:0;echo \\
+  "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \\
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+: 1623687815:0;clear
+: 1623687831:0;sudo apt-get update
+: 1623690846:0;sudo apt-get install docker-ce docker-ce-cli containerd.io
+: 1623690855:0;cler
+: 1623690857:0;clear
+: 1623690873:0;apt-cache madison docker-ce
+: 1623690913:0;clear
+: 1623690945:0;sudo apt-get install docker-ce=5:20.10.7~3-0~ubuntu-focal docker-ce-cli=5:20.10.7~3-0~ubuntu-focal
+: 1623690961:0;sudo docker run hello-world
+: 1623691013:0;sudo apt-get update
+: 1623691061:0;clear
+: 1623691073:0;docker ps
+: 1623691091:0;sudo docker ps
+: 1623691094:0;clear
+: 1623691099:0;sudo docker run hello-world
+: 1623691138:0;clear
+: 1623691182:0;sudo groupadd docker
+: 1623691193:0;sudo usermod -aG docker $USER\
+
+: 1623691203:0;clear
+: 1623691224:0;newgrp docker
+: 1623691238:0;docker run hello-world
+: 1623691243:0;clear
+: 1623691448:0;ps
+: 1623691461:0;exit -a
+: 1623691463:0;ps
+: 1623691469:0;exit
+: 1623733183:0;clear
+: 1623733190:0;git checkout main
+: 1623733194:0;clear
+: 1623733197:0;git pull
+: 1623733208:0;clear
+: 1623733212:0;git branch
+: 1623733252:0;git branch -a
+: 1623733272:0;clear
+: 1623733284:0;git branch --help
+: 1623733326:0;clear
+: 1623733341:0;git checkout -b heap
+: 1623733343:0;clear
+: 1623733357:0;mkdir Heap
+: 1623733359:0;clear
+: 1623733363:0;cd Heap
+: 1623733365:0;clear
+: 1623733386:0;cd ..
+: 1623733389:0;subl .
+: 1623733394:0;clear
+: 1623733452:0;ls
+: 1623733454:0;clear
+: 1623733472:0;ls
+: 1623733474:0;cd Heap
+: 1623733476:0;clear
+: 1623733477:0;ls
+: 1623733481:0;cd ImplementHeap
+: 1623733483:0;clear
+: 1623733485:0;ls
+: 1623733486:0;clear
+: 1623738493:0;git status
+: 1623738495:0;git add .
+: 1623738500:0;git status
+: 1623738501:0;clear
+: 1623738505:0;cd ..
+: 1623738506:0;clear
+: 1623738508:0;git status
+: 1623738523:0;git commit -am "feat: :memo: Tree created for heap"
+: 1623738529:0;git push origin heap
+: 1623738573:0;clear
+: 1623739375:0;javac Solution.java
+: 1623739384:0;java Solution.java
+: 1623739529:0;javac Solution.java
+: 1623739539:0;cd ImplementHeap
+: 1623739540:0;clear
+: 1623739543:0;javac Solution.java
+: 1623739657:0;clear
+: 1623739663:0;java Solution.java
+: 1623739740:0;javac Solution.java
+: 1623739744:0;java Solution.java
+: 1623739792:0;clear
+: 1623739795:0;javac Solution.java
+: 1623739798:0;java Solution.java
+: 1623739807:0;clear
+: 1623739809:0;java Solution.java
+: 1623739850:0;clear
+: 1623740034:0;javac Solution.java
+: 1623740051:0;java Solution.java
+: 1623740887:0;javac Solution.java
+: 1623740905:0;clear
+: 1623740907:0;java Solution.java
+: 1623740950:0;clear
+: 1623741260:0;javac Solution.java
+: 1623741264:0;java Solution.java
+: 1623747816:0;docker image
+: 1623747837:0;docker images
+: 1623747843:0;clear
+: 1623862024:0;sudo apt-get update
+: 1623862252:0;docker images
+: 1623862258:0;clear
+: 1623862281:0;docker run hello-world
+: 1623862298:0;docker ps
+: 1623862305:0;clear
+: 1623862314:0;docker ps
+: 1623862361:0;clear
+: 1623862381:0;docker run -d hello-world
+: 1623862389:0;docker ps
+: 1623862400:0;clear
+: 1623862408:0;docker ps
+: 1623862410:0;clear
+: 1623862411:0;docker ps
+: 1623862417:0;docker run -d hello-world
+: 1623862432:0;docker ps
+: 1623862439:0;docker run -d hello-world
+: 1623862442:0;clear
+: 1623862447:0;docker run hello-world
+: 1623862454:0;docker ps
+: 1623862460:0;bash
+: 1623862481:0;docker ps
+: 1623862492:0;clear
+: 1623862522:0;docker ps
+: 1623862526:0;docker run hello-world
+: 1623862536:0;docker ps
+: 1623862552:0;clear
+: 1623862673:0;docker ps -a
+: 1623862692:0;clear
+: 1623863107:0;docker ps -a
+: 1623863109:0;clear
+: 1623863110:0;docker
+: 1623863147:0;clear
+: 1623863159:0;docker rmi hello-world
+: 1623863182:0;docker images
+: 1623863192:0;docker rmi --help
+: 1623863219:0;docker rmi -f hello-world
+: 1623863222:0;clear
+: 1623863224:0;docker images
+: 1623863226:0;clear
+: 1623863581:0;docker run -d --name redis-first redis
+: 1623863672:0;lear
+: 1623863673:0;clear
+: 1623863677:0;docker images
+: 1623863679:0;clear
+: 1623863711:0;docker run -d --name sample hello-world
+: 1623863731:0;clear
+: 1623863733:0;docker ps
+: 1623863741:0;docker run hello-world
+: 1623863777:0;docker log hello
+: 1623863786:0;docker --help
+: 1623863802:0;docker logs hello
+: 1623863807:0;clear
+: 1623863820:0;docker logs sample
+: 1623863828:0;clear
+: 1623863831:0;docker images
+: 1623863836:0;clear
+: 1623863851:0;docker exec sample
+: 1623863864:0;docker exec -it sample
+: 1623863872:0;docker images
+: 1623863882:0;docker exec -it d1165f221234
+: 1623863895:0;clear
+: 1623863906:0;docker rmi -f hello-world
+: 1623863909:0;clear
+: 1623863913:0;docker images
+: 1623863915:0;cleare
+: 1623863917:0;clear
+: 1623865420:0;code .
+: 1623865429:0;clear
+: 1623865435:0;git checkout main
+: 1623865451:0;git pull origin main
+: 1623865580:0;git status
+: 1623865586:0;git checkout mvp
+: 1623865588:0;clear
+: 1623865594:0;git pull origin mvp
+: 1623865647:0;clear
+: 1623865748:0;code .
+: 1623865833:0;clear
+: 1623870042:0;git status
+: 1623870044:0;git add .
+: 1623870109:0;git commit -m "feat: :boom: About page styled with responsiveness"
+: 1623870123:0;git push origin mvp
+: 1623870136:0;clear
+: 1623914747:0;nano index.html
+: 1623914994:0;git status
+: 1623914996:0;git add .
+: 1623915027:0;git commit -m "feat: :heavy_plus_sign: Formspree embeds added"
+: 1623915038:0;clear
+: 1623915041:0;git push origin mvp
+: 1623919042:0;docker images
+: 1623919048:0;clear
+: 1623919269:0;docker images
+: 1623919271:0;clear
+: 1623919281:0;docker images
+: 1623919283:0;clear
+: 1623919295:0;docker images
+: 1623919297:0;clear
+: 1623919312:0;ls
+: 1623919314:0;clear
+: 1623919398:0;docker images
+: 1623919400:0;clear
+: 1623919543:0;docker images
+: 1623919544:0;clear
+: 1623919548:0;docker --helop
+: 1623919558:0;clear
+: 1623919562:0;docker --help
+: 1623923014:0;ls
+: 1623923015:0;clear
+: 1623923017:0;ls
+: 1623923037:0;cd Documents/Work/GitHub/Find-Me-Resource
+: 1623923039:0;clear
+: 1623923041:0;code .
+: 1623923330:0;subl .
+: 1623924274:0;cd Documents/Work/GitHub/Find-Me-Resource
+: 1623924276:0;clear
+: 1623924282:0;subl .
+: 1623924480:0;code .
+: 1623924639:0;clear
+: 1623932505:0;git status
+: 1623932508:0;clear
+: 1623937175:0;git status
+: 1623937179:0;git status -s
+: 1623937183:0;clear
+: 1623937186:0;git status
+: 1623937188:0;clear
+: 1623937190:0;git status -s
+: 1623937203:0;git add .
+: 1623937205:0;clear
+: 1623937345:0;git commit -m "feat: :lipstick: Structured the contact-form and Added vector image"
+: 1623937492:0;clear
+: 1623937497:0;git push origin mvp
+: 1623941825:0;clear
+: 1623941828:0;nano index.html
+: 1623941901:0;clear
+: 1623941904:0;git status -s
+: 1623941905:0;clear
+: 1623941943:0;git commit -am "fix: :wrench: Required field added for forms"
+: 1623941957:0;git status -s
+: 1623941958:0;clear
+: 1623941962:0;git push origin mvp
+: 1623946736:0;cd Desktop
+: 1623946737:0;clear
+: 1623946763:0;touch custom-words.txt
+: 1623946769:0;nana custom-words.txt
+: 1623946780:0;nano custom-words.txt
+: 1623991822:0;ls
+: 1623991824:0;clear
+: 1623991827:0;git status
+: 1623991829:0;clear
+: 1623991833:0;git status -s
+: 1623991838:0;clear
+: 1623991867:0;git commit -am "feat: :wrench: Partial creating of heap and heapify done"
+: 1623991869:0;clear
+: 1623991874:0;git push origin heap
+: 1623992066:0;clear
+: 1623992069:0;git status -s
+: 1623992156:0;git checkout main
+: 1623992158:0;clear
+: 1623992440:0;git config --global alias.s "status -s"
+: 1623992446:0;git status -s
+: 1623992449:0;git s
+: 1623992452:0;clear
+: 1623992497:0;vim ~/.gitconfig
+: 1623992524:0;nano ~/.gitconfig
+: 1623992948:0;clear
+: 1623992951:0;git config
+: 1623992969:0;nano ~/.gitconfig
+: 1623992988:0;clear
+: 1623992989:0;gc
+: 1623993009:0;git s
+: 1623993011:0;clear
+: 1623993016:0;nano ~/.gitconfig
+: 1623993034:0;clear
+: 1623993036:0;git s
+: 1623993037:0;s
+: 1623993043:0;clear
+: 1623993065:0;gi b
+: 1623993068:0;git b
+: 1623993093:0;clear
+: 1623993096:0;git b -a
+: 1623993113:0;clear
+: 1623993116:0;git r
+: 1623993118:0;clear
+: 1623993149:0;git ch binaryTree
+: 1623993153:0;clear
+: 1623993157:0;git s
+: 1623993159:0;clear
+: 1623993169:0;cd Heap
+: 1623993170:0;clear
+: 1623993174:0;git s
+: 1623993176:0;./
+: 1623993181:0;cd .
+: 1623993184:0;cd ..
+: 1623993190:0;git s
+: 1623993192:0;clear
+: 1623993196:0;cd Heap
+: 1623993199:0;git s
+: 1623993205:0;clear
+: 1623993210:0;cd ..
+: 1623993214:0;cd Binary\ Trees
+: 1623993218:0;clear
+: 1623993244:0;mkdir InvertBinaryTree
+: 1623993257:0;cp Question\ and\ Logic.md InvertBinaryTree
+: 1623993264:0;cp Solution.java InvertBinaryTree
+: 1623993266:0;clear
+: 1623993268:0;cd InvertBinaryTree
+: 1623993269:0;clear
+: 1623993270:0;ls
+: 1623993271:0;clear
+: 1623993279:0;cd InvertBinaryTree
+: 1623993282:0;clear
+: 1623993284:0;subl .
+: 1623994302:0;javac Solution.java
+: 1623994337:0;java Solution.java
+: 1623994365:0;clear
+: 1623998431:0;cd Binary\ Trees
+: 1623998434:0;cd InvertBinaryTree
+: 1623998435:0;clear
+: 1623998437:0;subl .
+: 1623998660:0;clear
+: 1623998863:0;javac Solution.java
+: 1623998912:0;java Solution.java
+: 1623998934:0;clear
+: 1623999492:0;git s
+: 1623999493:0;clear
+: 1623999496:0;cd ..
+: 1623999497:0;clear
+: 1623999499:0;git s
+: 1623999500:0;clear
+: 1623999503:0;git a
+: 1623999506:0;git a .
+: 1623999508:0;clear
+: 1623999509:0;git s
+: 1623999510:0;clear
+: 1623999534:0;git c "feat: :fire: Inverted the binary tree and added the documentation"
+: 1623999540:0;git puo
+: 1623999550:0;git pso binaryTree
+: 1623999560:0;clear
+: 1624001562:0;cd
+: 1624001564:0;clear
+: 1624002514:0;nano index.html
+: 1624008836:0;git s
+: 1624008838:0;clear
+: 1624008840:0;git a
+: 1624008842:0;git a .
+: 1624008843:0;clear
+: 1624008845:0;git s
+: 1624008846:0;clear
+: 1624008895:0;git c "feat: :heavy_plus_sign: Doctype added to improve the best practices in light house"
+: 1624008905:0;clear
+: 1624008914:0;git pso mvp
+: 1624008924:0;clear
+: 1624008926:0;git status
+: 1624008928:0;git s
+: 1624008930:0;clear
+: 1624008934:0;git log
+: 1624008945:0;clear
+: 1624009126:0;history
+: 1624009141:0;nano ~/.gitconfig
+: 1624009243:0;clear
+: 1624009245:0;git log
+: 1624009249:0;git l
+: 1624009252:0;git lg
+: 1624009279:0;clear
+: 1624009433:0;code .
+: 1624012249:0;git lg
+: 1624012291:0;git s
+: 1624012292:0;clear
+: 1624012293:0;git s
+: 1624012295:0;git a
+: 1624012298:0;clear
+: 1624012300:0;git a .
+: 1624012356:0;git c "feat: :bug: Social icons added instead of the Social text"
+: 1624012381:0;git pso mvp
+: 1624013975:0;clear
+: 1624016615:0;git s
+: 1624016626:0;git a .
+: 1624016676:0;git c "feat: :sparkles: Footer contents [titles] added"
+: 1624016688:0;git pso mvp
+: 1624016698:0;clear
+: 1624016973:0;git clone https://github.com/kaiwalyakoparkar/dotfiles.git
+: 1624016997:0;cd dotfiles
+: 1624016998:0;clear
+: 1624017001:0;ls
+: 1624017086:0;git remote set-url origin git@github.com:kaiwalyakoparkar/dotfiles.git
+: 1624017089:0;clear
+: 1624017091:0;git s
+: 1624017093:0;clear
+: 1624017130:0;nano ~/.gitconfig
+: 1624017145:0;nano gitconfig
+: 1624017246:0;cp gitconfig zshrc
+: 1624017265:0;nano ~/.zshrc
+: 1624017328:0;nano zshrc
+: 1624017387:0;cat ~/.zshrc
+: 1624017399:0;clear
+: 1624017404:0;nano zshrc
+: 1624017424:0;clear
+: 1624017477:0;cp zshrc zshrc.pre-oh-my-zsh
+: 1624017495:0;nano zshrc.pre-oh-my-zsh
+: 1624017565:0;subl .
+: 1624017612:0;nano ~/.zshrc.pre-oh-my-zsh
+: 1624017648:0;nano ~.zsh_history
+: 1624017662:0;cat ~/.zsh_history
+: 1624017678:0;clear
+: 1624017694:0;nano ~/.zcompdump
+: 1624018345:0;cd
+: 1624018348:0;clear
+: 1624018352:0;pwd
+: 1624018353:0;clear
+: 1624018357:0;curl -fsSLO https://raw.githubusercontent.com/Vaelatern/init-dotfiles/master/init_dotfiles.sh\
+  
+: 1624018369:0;chmod +x ./init_dotfiles.sh
+: 1624018376:0;./init_dotfiles.sh
+: 1624018470:0;curl -fsSLO https://raw.githubusercontent.com/Vaelatern/init-dotfiles/master/init_dotfiles.sh
+: 1624018512:0;chmod +x ./init_dotfiles.sh
+: 1624018521:0;./init_dotfiles.sh
+: 1624018680:0;clear
+: 1624018692:0;curl -fsSLO https://raw.githubusercontent.com/Vaelatern/init-dotfiles/master/init_dotfiles.sh
+: 1624018698:0;chmod +x ./init_dotfiles.sh
+: 1624018703:0;./init_dotfiles.sh
+: 1624018779:0;git s
+: 1624018788:0;cd dotfiles
+: 1624018793:0;cd .dotfiles
+: 1624018797:0;git s
+: 1624018808:0;git status
+: 1624018865:0;git log
+: 1624018960:0;git branch -m master main
+: 1624018967:0;git branch 
+: 1624018980:0;git remote -v
+: 1624019013:0;git remote add origin https://github.com/kaiwalyakoparkar/dotfiles.git
+: 1624019017:0;git remote -v
+: 1624019024:0;git pso main
+: 1624019033:0;git push origin main
+: 1624019136:0;git remote add origin https://github.com/kaiwalyakoparkar/dotfiles.git
+: 1624019144:0;git remote rm origin
+: 1624019148:0;git remote -v
+: 1624019160:0;git remote add origin https://github.com/kaiwalyakoparkar/dotfiles.git
+: 1624019165:0;git push origin main
+: 1624019593:0;git s
+: 1624019640:0;nano gitconfig
+: 1624019786:0;cd ..
+: 1624019788:0;ls -a
+: 1624019819:0;touch .gitconfig
+: 1624019974:0;nano gitconfig
+: 1624020008:0;git s
+: 1624020015:0;git status
+: 1624020067:0;git s
+: 1624020074:0;clear
+: 1624020080:0;git s
+: 1624020104:0;ls
+: 1624020107:0;ls -a
+: 1624020113:0;rm .gitconfig
+: 1624020114:0;clear
+: 1624020123:0;git config --global alias.s "status -s"
+: 1624020126:0;ls -a
+: 1624020139:0;nano .gitconfig
+: 1624020159:0;cd ..
+: 1624020163:0;cd dotfiles
+: 1624020174:0;nano gitconfig
+: 1624020195:0;cd ..
+: 1624020197:0;cd Find-Me-Resource
+: 1624020199:0;git s
+: 1624020201:0;clear
+: 1624020202:0;git s
+: 1624020207:0;git r
+: 1624020226:0;clear
+: 1624020230:0;cd ..
+: 1624020233:0;ls -a
+: 1624020235:0;clear
+: 1624020239:0;ls
+: 1624020421:0;git pso
+: 1624020427:0;git pso mvp
+: 1624020435:0;clear
+: 1624020474:0;git s
+: 1624020477:0;clear
+: 1624020480:0;subl .
+: 1624020806:0;git remote -v
+: 1624020808:0;clear
+: 1624020918:0;cat .zshrc.save
+: 1624020942:0;subl .
+: 1624021000:0;cp zshrc zshrc.save
+: 1624021024:0;nano .zshrc.save
