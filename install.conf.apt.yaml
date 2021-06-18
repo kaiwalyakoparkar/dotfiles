@@ -1,0 +1,42 @@
+- shell:
+    -
+      command: sudo apt-get update
+      description: updating the library
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo apt-get install peek
+      description: Install Peek
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo apt-get install flameshot
+      description: Install flameshot
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo groupadd docker
+      description: Add docker to user group
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo usermod -aG docker $USER
+      description: Add docker to user group 2
+      stdin: true
+      stdout: true
+
+    -
+      command: newgrp docker 
+      description: Add docker to user group 3
+      stdin: true
+      stdout: true
+
+    # -
+    #   command: docler run hello-world 
+    #   description: Run sample docker image
+    #   stdin: true
+    #   stdout: true

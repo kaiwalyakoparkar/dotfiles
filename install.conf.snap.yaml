@@ -1,0 +1,73 @@
+- shell:
+    -
+      command: sudo snap install code --classic
+      description: Install VS Code
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install sublime-text --classic
+      description: Install sublime text
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install slack --classic
+      description: Install slack
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install spotify
+      description: Install Spotify
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install vlc
+      description: Install vlc
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install discord
+      description: Install Discord
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install firefox
+      description: Install firefox
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install libreoffice
+      description: Install Libre Office
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install bpytop
+      description: Install BPY top
+      stdin: true
+      stdout: true
+
+    -
+      command: sudo snap install docker
+      description: Install 
+      stdin: true
+      stdout: true
+
+    -
+      command: 
+      description: Install 
+      stdin: true
+      stdout: true
+
+    -
+      command: 
+      description: Install 
+      stdin: true
+      stdout: true
+

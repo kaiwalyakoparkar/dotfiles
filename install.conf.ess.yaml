@@ -1,0 +1,6 @@
+- shell:
+    -
+      command: sudo apt-get install git
+      description: Install git
+      stdin: true
+      stdout: true
